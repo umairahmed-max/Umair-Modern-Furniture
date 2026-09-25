@@ -1,0 +1,6 @@
+{
+  "name": "Modern Furniture Co. - Executive Analytics",
+  "description": "Comprehensive Business Intelligence & Operational Performance Suite for Modern Furniture Co., featuring real-time orders, design workloads, financial ledger, HR roster, and inventory analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
